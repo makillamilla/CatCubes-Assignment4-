@@ -1,0 +1,45 @@
+body {
+    max-width: fit-content;
+    margin-inline: auto;
+    background-image: url("images/cat-tree-background.png");
+    background-size: 100vw 100vh;
+}
+
+.grid {
+    height: 560px;
+    width: 560px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: hwb(36 58% 4% / 0.527);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.grid div {
+    height: 70px;
+    width: 70px;
+}
+
+.score-board {
+    width: 8*70px;
+    margin-inline: auto;
+    background-color: hwb(36 58% 4%);
+    padding: 0.5em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    border-radius: 1rem;
+}
+
+h1 {
+    max-width: fit-content;
+    margin-inline: auto;
+    color: #634f39;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+h3 {
+    max-width: fit-content;
+    margin-inline: auto;
+    color: #634f39;
+}

@@ -1,0 +1,48 @@
+/* Body styling */
+body {
+    background-color: white;
+    color: #4b4b72; /* Body text color */
+    font-family: Georgia, Garamond, serif;
+    font-size: 14pt;
+    padding: 20px;
+}
+
+/* Main heading */
+.main-heading {
+    text-align: center;
+    font-size: 28pt;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #006699;
+    font-family: "Century Gothic", Futura, Verdana, sans-serif;
+    text-decoration: underline;
+    padding: 10px;
+}
+
+/* Other headings */
+.sub-heading {
+    text-align: left;
+    font-size: 20pt;
+    font-weight: normal;
+    color: #ffffff;
+    background-color: #006699;
+    font-family: "Century Gothic", Futura, Verdana, sans-serif;
+    text-decoration: underline;
+    padding: 5px;
+    margin-top: 30px;
+}
+
+/* Links */
+a {
+    color: #006699; /* Same as heading background */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+    height: 100vh;
+}

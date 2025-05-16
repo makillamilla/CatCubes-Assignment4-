@@ -1,0 +1,36 @@
+/* Home page CSS file
+
+/* Reset some default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  background-color: #94b4e4;
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #121dbd;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+#list {
+    text-align: center;
+    padding: 10px;
+}
+
+#CatCubePage {
+    padding: 50px 50px 20px 50px;
+}
+
+#Beach-Please {
+    padding: 20px 50px 50px 50px;
+}
