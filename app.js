@@ -11,12 +11,12 @@ function catCubesGame() {
 
 
 const catColors = [
-    'url(images/blue.png)',
-    'url(images/green.png)',
-    'url(images/orange.png)',
-    'url(images/purple.png)',
-    'url(images/red.png)',
-    'url(images/yellow.png)',
+    'url(blue.png)',
+    'url(green.png)',
+    'url(orange.png)',
+    'url(purple.png)',
+    'url(red.png)',
+    'url(yellow.png)',
 ]
 
 
